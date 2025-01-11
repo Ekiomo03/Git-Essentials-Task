@@ -65,3 +65,6 @@ We plan to enhance this project by creating a simple website that displays all t
 ## Contact
 
 For inquiries, please contact the author at ekiomodarlington@gmail.com.
+
+## Contributing
+We welcome contributions! Feel free to fork this repository, make changes, and open a pull request. Let's collaborate and make Team Connect even better.
